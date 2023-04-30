@@ -14,6 +14,8 @@ I'm currently learning javascript
 
 <img src="https://api2.sololearn.com/v2/certificates/CT-9OMOT9QV/image/png" width="512px"/>
 
+<img src="https://raw.githubusercontent.com/m4isv/m4isv/main/python_essentials_1_50.png" width="512px"/>
+
 
 ### 😂 Random Dev Meme
 <img src="https://raw.githubusercontent.com/m4isv/m4isv/main/20230429_222022.gif" width="512px"/>

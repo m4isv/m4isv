@@ -9,6 +9,12 @@ I'm currently learning javascript
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m4isv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4isv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📚 certificate
+<img src="https://api2.sololearn.com/v2/certificates/CT-8YFJKOTD/image/png" width="512px"/>
+
+<img src="https://api2.sololearn.com/v2/certificates/CT-9OMOT9QV/image/png" width="512px"/>
+
+
 ### 😂 Random Dev Meme
 <img src="https://raw.githubusercontent.com/m4isv/m4isv/main/20230429_222022.gif" width="512px"/>
 
